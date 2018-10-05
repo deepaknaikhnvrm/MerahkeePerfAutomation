@@ -10,7 +10,7 @@ import elementsandfunctions.LoginPage;
 /**
  * Unit test for simple App.
  */
-public class MammothTest 
+public class CloudmeterTest 
 {
 	
 	@BeforeTest

@@ -12,7 +12,7 @@ import elementsandfunctions.LoginPage;
  */
 public class MammothTest 
 {
-	
+	//This Method will launch new crhome instance and gets the provided url
 	@BeforeTest
 	public void lauchApp()
 	{

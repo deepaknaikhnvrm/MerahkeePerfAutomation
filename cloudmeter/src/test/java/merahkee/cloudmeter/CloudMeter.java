@@ -11,7 +11,7 @@ import org.testng.*;
 /**
  * Unit test for simple App.
  */
-public class MammothTest 
+public class CloudMeter 
 {
 	
 	@BeforeTest

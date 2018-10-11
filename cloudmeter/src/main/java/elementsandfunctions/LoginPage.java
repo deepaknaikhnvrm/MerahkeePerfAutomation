@@ -1,7 +1,7 @@
 package elementsandfunctions;
 
 /**
- * Hello world!
+ * 
  *
  */
 public class LoginPage

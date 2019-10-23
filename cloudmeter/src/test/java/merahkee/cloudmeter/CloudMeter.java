@@ -31,5 +31,10 @@ public class CloudMeter
 		System.out.println(LoginPage.ClickApp());
 		Assert.assertEquals(LoginPage.ClickApp(),"Returning from click app Loging to mammoth");
 	}
-
+	//AFter the execution close the tab and kill the driver
+	@AfterSuite
+	public void tearDown() {
+	   driver.close
+	   driver.quit();
+	}
 }
